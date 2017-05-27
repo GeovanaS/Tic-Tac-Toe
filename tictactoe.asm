@@ -3,9 +3,9 @@
 ## @author Bruno Adriano
 ##         Geovana Silveira
 ##
-## Instruções:
+## Instrucoes:
 ## Abra o Bitmap Display
-## Configuracões do Bitmap:
+## Configuracoes do Bitmap:
 ## Unit Width in Pixels : 1
 ## Unit Height in Pixels: 1
 ## Display Width in Pixels: 256
